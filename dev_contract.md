@@ -7,17 +7,17 @@
 ## Applicable parties
 
 | Identifier  | Full Name | Address | Github ID |
-| ----------- | ----------- |----------- | ----------- |
-| The Client / Client | ENTER | ENTER | ENTER |
+| The Client| Annoy Charles | 32/846 shivangi industrial estate, mumbai India | annoy181 |
+| The Client / Client | ETER | ENTER | ENTER |
 | The Developer / Developer | Arman Ruben Kandel | Taunusstraße 124, 41236 Mönchengladbach, Germany | Osiris-Team |
 
-### Selected payment rate: INSERT (Basic, Pro or Expert)
-### Selected payment logic: INSERT (Prepaid, Postpaid, FPW Subscription or FP Subscription)
+### Selected payment rate: Expert (Basic, Pro or Expert) Expert
+### Selected payment logic: Postpaid (Prepaid, Postpaid, FPW Subscription or FP Subscription) Postpaid
 
 ```
 
 
-
+9 June 2024
 ```
 Client, signed DATE.
 
